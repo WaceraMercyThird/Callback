@@ -2,14 +2,15 @@
 ## Outline
 **● Quiz**
 
-Q1) Create a html page that accepts the 
+1. Create a html page that accepts the 
 following inputs and displayed the output to 
 the user AFTER all inputs have been 
 submitted.
 Your function will need these inputs:
-● Class
-● Subject
-● Date
+
+- Class
+-  Subject
+-  Date
 And these inputs to the function and output it 
 as a fully-formed quiz.
 <!DOCTYPE html>
@@ -35,9 +36,9 @@ as a fully-formed quiz.
 
 **Questions**
 
-Q2. Implement a callback.
-Q3) What will the code below output to the console and why? 
-Q4) How has this identifier been used?
+2. Implement a callback.
+3. What will the code below output to the console and why? 
+4. How has this identifier been used?
 
 var hopperLab = {
     name: "bar",
