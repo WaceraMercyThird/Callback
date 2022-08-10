@@ -14,7 +14,7 @@ setTimeout(function(){
 
 setTimeout(function(){
     console.log(Dat);
-}, 2000);
+}, 1000);
 
 
 // This Identifier is been used to access name valiable in nested function 
