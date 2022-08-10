@@ -1,6 +1,6 @@
 let Class = "Hopper Lab";
 let Subject = "JavaScript";
-let Dat = 10_8_2022
+let Dat = 10_8_2022;
 
 
 // Callback function
